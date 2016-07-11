@@ -4,13 +4,15 @@
   "description": "Compile Markdown to React with remark",
   "main": "index.js",
   "dependencies": {
-    "budo": "^4.1.0",
-    "remark": "^4.1.1",
-    "remark-react": "2.0.0",
-    "react": "^0.13.3"
+    "babel-preset-react": "6.11.1",
+    "budo": "^8.3.0",
+    "react": "^15.2.1",
+    "react-dom": "15.2.1",
+    "remark": "^5.0.1",
+    "remark-react": "3.0.0"
   },
   "devDependencies": {
-    "babelify": "^6.1.2",
+    "babelify": "^7.3.0",
     "browserify": "^13.0.0"
   },
   "browserify": {

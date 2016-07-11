@@ -1,4 +1,5 @@
 var React = require('react'),
+    ReactDOM = require('react-dom'),
     remark = require('remark'),
     reactRenderer = require('remark-react');
 
@@ -15,10 +16,10 @@ var App = React.createClass({
                 value={this.state.text}
                 onChange={this.onChange} />
             <div id='preview'>
-                {remark().use(reactRenderer).process(this.state.text)}
+                {remark().use(reactRenderer).process(this.state.text).contents}
             </div>
         </div>);
     }
 });
 
-React.render(<App />, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'));
