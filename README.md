@@ -1,6 +1,6 @@
 # remark-vue
 
-[![Build Status](https://travis-ci.org/medfreeman/remark-vue.svg?branch=master)](https://travis-ci.org/medfreeman/remark-vue)
+[![Build Status](https://travis-ci.org/medfreeman/remark-vue.svg?branch=master)](https://travis-ci.org/medfreeman/remark-vue) [![Greenkeeper badge](https://badges.greenkeeper.io/medfreeman/remark-vue.svg)](https://greenkeeper.io/)
 
 **remark-vue** compiles markdown to Vue.  Built on [**remark**](https://github.com/remarkjs/remark),
 an extensively tested and pluggable parser.
