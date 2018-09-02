@@ -6,6 +6,7 @@ var path = require("path");
 var fs = require("fs");
 var assert = require("assert");
 var remark = require("remark");
+var frontmatter = require("remark-frontmatter");
 var vfile = require("vfile");
 var vueRenderer = require("..");
 
@@ -44,6 +45,7 @@ function isHidden(filePath) {
   async function processAsync(file, config) {
     var vdom = remark()
       .data("settings", config)
+      .use(frontmatter, ["yaml"])
       .use(vueRenderer, config)
       .processSync(file).contents;
     var html = await Vue.renderToString(vdom);
