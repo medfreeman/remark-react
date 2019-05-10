@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "mocha": "^5.2.0",
-    "nyc": "^13.0.1",
+    "nyc": "^14.1.1",
     "remark": "^9.0.0",
     "remark-cli": "^5.0.0",
     "remark-frontmatter": "^1.2.1",
