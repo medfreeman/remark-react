@@ -2612,9 +2612,10 @@ mdast-util-heading-style@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/mdast-util-heading-style/-/mdast-util-heading-style-1.0.3.tgz#efb390dbc8aa016c3cf577a034900db27ee7247c"
 
-mdast-util-to-hast@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-3.0.2.tgz#26b1971f49d6db1e3428463a12e66c89db5021cb"
+mdast-util-to-hast@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-6.0.0.tgz#7547f76266670bdd394e58d9110a10dee8c9a881"
+  integrity sha512-r1ARBzOsH4ChGlLWZ0vGcGLzPToSCu4VowkSQdCgNlwaLR3M0QA+NvJFeCv8dG2pomsql90dFaR0vz6uy+3e1w==
   dependencies:
     collapse-white-space "^1.0.0"
     detab "^2.0.0"
