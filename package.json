@@ -28,7 +28,7 @@
     "remark": "^9.0.0",
     "remark-cli": "^5.0.0",
     "remark-frontmatter": "^1.2.1",
-    "remark-github": "^7.0.0",
+    "remark-github": "^7.0.7",
     "remark-preset-lint-consistent": "^2.0.0",
     "remark-preset-lint-recommended": "^3.0.2",
     "remark-toc": "^5.0.0",
