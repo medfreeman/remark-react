@@ -23,7 +23,7 @@
     "mdast-util-to-hast": "^3.0.0"
   },
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^7.0.1",
     "nyc": "^13.0.1",
     "remark": "^9.0.0",
     "remark-cli": "^5.0.0",
