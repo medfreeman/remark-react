@@ -29,7 +29,7 @@
     "remark-cli": "^5.0.0",
     "remark-frontmatter": "^1.2.1",
     "remark-github": "^7.0.0",
-    "remark-preset-lint-consistent": "^2.0.0",
+    "remark-preset-lint-consistent": "^2.0.4",
     "remark-preset-lint-recommended": "^3.0.2",
     "remark-toc": "^5.0.0",
     "standard-version": "^4.4.0",
