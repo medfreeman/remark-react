@@ -3793,9 +3793,10 @@ remark-preset-lint-consistent@^2.0.0:
     remark-lint-strong-marker "^1.0.0"
     remark-lint-table-cell-padding "^1.0.0"
 
-remark-preset-lint-recommended@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/remark-preset-lint-recommended/-/remark-preset-lint-recommended-3.0.2.tgz#5ce675678895ce7131326c12b6df9105a5d0632c"
+remark-preset-lint-recommended@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/remark-preset-lint-recommended/-/remark-preset-lint-recommended-3.0.4.tgz#8e43940e46b2cb0dc6c89c71066f87f59321d5de"
+  integrity sha512-i4GoobwWKt5LDJxIZjhHnnYiQISacNE8Oxj1ViwSHJnTUCtd7vh3KwtsfV8DrLsFUqRogX49iJEuZWXipY3PJA==
   dependencies:
     remark-lint "^6.0.0"
     remark-lint-final-newline "^1.0.0"
