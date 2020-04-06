@@ -3484,12 +3484,12 @@ remark-cli@^5.0.0:
     remark "^9.0.0"
     unified-args "^5.0.0"
 
-remark-frontmatter@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/remark-frontmatter/-/remark-frontmatter-1.2.1.tgz#6427e8da41d8e78b1b955a0af46ca71350085f50"
+remark-frontmatter@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/remark-frontmatter/-/remark-frontmatter-2.0.0.tgz#c9b8539c27cd23b1672c7e0fcbd5795eeedb4dc1"
+  integrity sha512-uNOQt4tO14qBFWXenF0MLC4cqo3dv8qiHPGyjCl1rwOT0LomSHpcElbjjVh5CwzElInB38HD8aSRVugKQjeyHA==
   dependencies:
     fault "^1.0.1"
-    xtend "^4.0.1"
 
 remark-github@^7.0.0:
   version "7.0.3"
